@@ -1,2 +1,2 @@
 # DI_Finder
-Узконаправленный парсер, который используется в большинстве своём для других моих проектов, если нет необходимых api
+A narrowly focused parser that is used mostly for my other projects, if there are no necessary apis
